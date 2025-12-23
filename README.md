@@ -8,5 +8,5 @@
 
 ## 🕹️ 立即在线体验
 **点击下方链接，直接在浏览器中开始游戏！无需下载，支持电脑和手机。**
-### ▶️ [前往游戏主页](https://funny-semifreddo-3393af.netlify.app)
+### ▶️ [前往游戏主页](https://quiet-crepe-b08572.netlify.app)
 ## 📂 项目结构
